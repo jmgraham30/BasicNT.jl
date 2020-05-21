@@ -62,7 +62,7 @@ function primefactors(n::Int64)
         error("Argument 'n' to be factored must be a positive integer.")
     end
 
-    f = factor(n)
+    f = Primes.factor(n)
     return sort(collect(keys(f)))
 end
 
