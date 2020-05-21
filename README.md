@@ -6,4 +6,4 @@
 [![Coveralls](https://coveralls.io/repos/github/jmgraham30/BasicNT.jl/badge.svg?branch=master)](https://coveralls.io/github/jmgraham30/BasicNT.jl?branch=master)
 
 
-This package contains several functions for very basic number theory computations. The code contained herein is a very slight update of the code from [Numbers](https://github.com/hwborchers/Numbers.jl) which uses deprecated methods.  
+This package contains several functions for very basic number theory computations. The code contained herein is a very slight update of the code from [Numbers.jl](https://github.com/hwborchers/Numbers.jl) which uses deprecated methods.  
