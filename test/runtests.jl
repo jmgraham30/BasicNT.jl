@@ -1,6 +1,8 @@
 using BasicNT
 using Test
 
+primesieve(23)
+
 @testset "BasicNT.jl" begin
-    # Write your own tests here.
+    primesieve(23)
 end
